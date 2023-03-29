@@ -1,4 +1,4 @@
-# wavcoh
+# Wavcoh
 
 Simplifying the Retrieval of Volcanic SO2 from UV spectra using Wavelet Coherence
 This repository contains the MATLAB code used to obtain the results presented in “Barrington et al. Simplifying the Retrieval of Volcanic SO2 from UV spectra using Wavelet Coherence”.
