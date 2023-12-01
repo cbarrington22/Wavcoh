@@ -6,7 +6,7 @@
 % DESCRIPTION of script 
 % Sections of the code which are contained in the "Manuscript" folder at https://github.com/cbarrington22/Wavcoh have been re-written to provide a user-friendly option for those wishing 
 % to apply similar analysis to their own UV spectra. Although this code is intended as a stand-alone script it may require adapations depending on the instrument configuration or user's needs. 
-% As default, this code is set-up to analyse spectra recorded by the NOVAC (Network of Volcanic and Atmospheric Change) and determines the MSWC for all measurement spectra recorded within 
+% As default, this code is set-up to analyse spectra recorded by the NOVAC (Network for Observation of Volcanic and Atmospheric Change) and determines the MSWC for all measurement spectra recorded within 
 % a full instrument scan. It assumes the wavelength information contained in 'fnHg' (below) is correct. If that is not the case, but a differential SO2 absorption signal is observed in the MSWC, 
 % the user should re-define the extraction window based on the differential SO2 absoprtion signal (which is expected to be centered at ~310 nm) (minWe, maxWe). Simillarly, the extraction window 
 % is defined using the same frequency limits as indicted in the manuscript. In the case that the spectrometer resolution varies from that of instruments belonging to the NOVAC network, the frequency 
